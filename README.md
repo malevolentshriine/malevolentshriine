@@ -1,1 +1,1 @@
-![](https://cdn.discordapp.com/attachments/821492995109945446/1333512981455175790/b76c6cc3b9f72ba846db5993ffa6330d.jpg?ex=67992a3e&is=6797d8be&hm=b7473bbf7cc19f97e19179964213f94a7c8ac223e8b539a36b68c9d28c49689a&)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=zk3kqasav3276idzo94kiu70w&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
